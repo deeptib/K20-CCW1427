@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>category,farmer_id,item</col_name_string>
+        <index_col_name>0792e9f7183b0010f87734669adcea6b,7765a9f7183b0010f87734669adceadb,fe75a9f7183b0010f87734669adceadd</index_col_name>
+        <logical_table_name>x_ccw1427_demo_lab_1_commodity</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2020-04-07 00:31:36</sys_created_on>
+        <sys_id>a44b4bc9184c9010f87734669adcead0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ccw1427_demo_lab_1_commodity</sys_name>
+        <sys_package display_value="CCW1427_Demo" source="x_ccw1427_demo">c95a5d2718730010f87734669adcea01</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW1427_Demo">c95a5d2718730010f87734669adcea01</sys_scope>
+        <sys_update_name>sys_index_x_ccw1427_demo_lab_1_commodity_category_farmer_id_item</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-04-07 00:31:36</sys_updated_on>
+        <table display_value="Lab 1 Commodity" name="x_ccw1427_demo_lab_1_commodity">7e92e9f7183b0010f87734669adcea54</table>
+        <unique_index>true</unique_index>
+    </sys_index>
+</record_update>

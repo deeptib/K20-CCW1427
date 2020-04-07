@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Lab 1 Commodity" max_length="40" name="x_ccw1427_demo_lab_1_commodity" sizeclass="10" type="collection">
+        <element label="Category" max_length="40" name="category" type="string"/>
+        <element label="Farmer ID" max_length="40" name="farmer_id" type="string"/>
+        <element label="Item" max_length="40" name="item" type="string"/>
+    </element>
+</database>

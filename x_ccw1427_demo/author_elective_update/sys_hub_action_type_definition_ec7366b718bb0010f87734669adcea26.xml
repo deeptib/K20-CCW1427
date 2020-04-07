@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="DELETE">
+        <access>public</access>
+        <acls/>
+        <action_template>DATASTREAM</action_template>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <ih_action>false</ih_action>
+        <internal_name>lab_1_data_stream</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Lab 1 Data Stream</name>
+        <natlang/>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2020-04-03 00:25:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ec7366b718bb0010f87734669adcea26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lab 1 Data Stream</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CCW1427_Demo" source="x_ccw1427_demo">c95a5d2718730010f87734669adcea01</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW1427_Demo">c95a5d2718730010f87734669adcea01</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_ec7366b718bb0010f87734669adcea26</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2020-04-03 00:25:15</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="DELETE" query="documentkey=ec7366b718bb0010f87734669adcea26"/>
+    <sys_variable_value action="DELETE" query="document_key=ec7366b718bb0010f87734669adcea26"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CCW1427_Demo">c95a5d2718730010f87734669adcea01</application>
+        <file_path/>
+        <instance_id>22cb60ba1d1200100c1d7e7e84a3763b</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_hub_action_type_definition_ec7366b718bb0010f87734669adcea26</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition"><sys_hub_action_type_definition action="INSERT_OR_UPDATE"><access>public</access><acls/><action_template>DATASTREAM</action_template><active>true</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><copied_from/><copied_from_name/><description/><ih_action>false</ih_action><internal_name>lab_1_data_stream</internal_name><label_cache/><latest_snapshot/><master_snapshot/><name>Lab 1 Data Stream</name><natlang/><outputs/><state>draft</state><sys_class_name>sys_hub_action_type_definition</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2020-04-03 00:25:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ec7366b718bb0010f87734669adcea26</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Lab 1 Data Stream</sys_name><sys_overrides/><sys_package display_value="CCW1427_Demo" source="x_ccw1427_demo">c95a5d2718730010f87734669adcea01</sys_package><sys_policy/><sys_scope display_value="CCW1427_Demo">c95a5d2718730010f87734669adcea01</sys_scope><sys_update_name>sys_hub_action_type_definition_ec7366b718bb0010f87734669adcea26</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2020-04-03 00:25:15</sys_updated_on><system_level>false</system_level><type/></sys_hub_action_type_definition><sys_translated_text action="delete_multiple" query="documentkey=ec7366b718bb0010f87734669adcea26"/><sys_variable_value action="delete_multiple" query="document_key=ec7366b718bb0010f87734669adcea26"/></record_update>]]></payload>
+        <payload_hash>819805011</payload_hash>
+        <record_name>Lab 1 Data Stream</record_name>
+        <reverted_from/>
+        <source>355326b718bb0010f87734669adceae6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2020-04-03 00:25:15</sys_created_on>
+        <sys_id>fc7366b718bb0010f87734669adcea29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1713d6d74120000001</sys_recorded_at>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2020-04-03 00:25:15</sys_updated_on>
+        <type>Action Type</type>
+        <update_guid>387366b75fbb0010923c62cab936bf29</update_guid>
+        <update_guid_history>387366b75fbb0010923c62cab936bf29:819805011</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2020-04-03 16:24:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_action_type_definition">sys_hub_action_type_definition</sys_db_object>
+        <sys_id>0af8f1b1d0d940b9919e84b5e276a721</sys_id>
+        <sys_metadata>ec7366b718bb0010f87734669adcea26</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lab 1 Data Stream</sys_name>
+        <sys_package display_value="CCW1427_Demo" source="x_ccw1427_demo">c95a5d2718730010f87734669adcea01</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CCW1427_Demo">c95a5d2718730010f87734669adcea01</sys_scope>
+        <sys_scope_delete display_value="">4869094385724198a02a136ed3395690</sys_scope_delete>
+        <sys_update_name>sys_hub_action_type_definition_ec7366b718bb0010f87734669adcea26</sys_update_name>
+        <sys_update_version display_value="sys_hub_action_type_definition_ec7366b718bb0010f87734669adcea26">fc7366b718bb0010f87734669adcea29</sys_update_version>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2020-04-03 16:24:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

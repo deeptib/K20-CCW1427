@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_ccw1427_demo.CCW1427_Lab_1_DS_Endpoint</id>
+        <multiple_connections>false</multiple_connections>
+        <name>CCW1427_Lab_1_DS_Endpoint</name>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2020-04-02 20:09:53</sys_created_on>
+        <sys_id>224829bb183b0010f87734669adcea35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ccw1427_demo.CCW1427_Lab_1_DS_Endpoint</sys_name>
+        <sys_package display_value="CCW1427_Demo" source="x_ccw1427_demo">c95a5d2718730010f87734669adcea01</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW1427_Demo">c95a5d2718730010f87734669adcea01</sys_scope>
+        <sys_update_name>sys_alias_224829bb183b0010f87734669adcea35</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2020-04-02 20:09:53</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CCW1427_Demo">c95a5d2718730010f87734669adcea01</application>
+        <file_path/>
+        <instance_id>22cb60ba1d1200100c1d7e7e84a3763b</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_alias_224829bb183b0010f87734669adcea35</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_ccw1427_demo.CCW1427_Lab_1_DS_Endpoint</id><multiple_connections>false</multiple_connections><name>CCW1427_Lab_1_DS_Endpoint</name><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2020-04-02 20:09:53</sys_created_on><sys_id>224829bb183b0010f87734669adcea35</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_ccw1427_demo.CCW1427_Lab_1_DS_Endpoint</sys_name><sys_package display_value="CCW1427_Demo" source="x_ccw1427_demo">c95a5d2718730010f87734669adcea01</sys_package><sys_policy/><sys_scope display_value="CCW1427_Demo">c95a5d2718730010f87734669adcea01</sys_scope><sys_update_name>sys_alias_224829bb183b0010f87734669adcea35</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2020-04-02 20:09:53</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-866520057</payload_hash>
+        <record_name>x_ccw1427_demo.CCW1427_Lab_1_DS_Endpoint</record_name>
+        <reverted_from/>
+        <source>65c6a57b183b0010f87734669adceaa5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2020-04-02 20:09:53</sys_created_on>
+        <sys_id>4409e5bb183b0010f87734669adceaf2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1713c83a95e0000001</sys_recorded_at>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2020-04-02 20:09:53</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>8c09e5bb623b00101e3b482e9b8f52f1</update_guid>
+        <update_guid_history>8c09e5bb623b00101e3b482e9b8f52f1:-866520057</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2020-04-03 00:05:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>2ad8be2e152f4748818556f3a4463240</sys_id>
+        <sys_metadata>224829bb183b0010f87734669adcea35</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ccw1427_demo.CCW1427_Lab_1_DS_Endpoint</sys_name>
+        <sys_package display_value="CCW1427_Demo" source="x_ccw1427_demo">c95a5d2718730010f87734669adcea01</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CCW1427_Demo">c95a5d2718730010f87734669adcea01</sys_scope>
+        <sys_scope_delete display_value="">4869094385724198a02a136ed3395690</sys_scope_delete>
+        <sys_update_name>sys_alias_224829bb183b0010f87734669adcea35</sys_update_name>
+        <sys_update_version display_value="sys_alias_224829bb183b0010f87734669adcea35">4409e5bb183b0010f87734669adceaf2</sys_update_version>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2020-04-03 00:05:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
